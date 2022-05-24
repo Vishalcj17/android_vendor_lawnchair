@@ -1,0 +1,4 @@
+-system_ext/priv-app/Lawnchair/Lawnchair.apk;PRESIGNED;OVERRIDES=ParanoidQuickStep,Launcher3QuickStep,PixelLauncher,TrebuchetQuickStep
+system_ext/etc/permissions/privapp-permissions-app.lawnchair.xml
+system_ext/etc/sysconfig/app.lawnchair-hiddenapi-package-whitelist.xml
+system_ext/priv-app/Lawnchair/lib/arm64/libnrb.so
